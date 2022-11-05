@@ -10,8 +10,6 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
 
-timezone: Asia/Shanghai
-
 paginate: 5
 paginate_path: "/page/:num"
 
